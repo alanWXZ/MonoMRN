@@ -1,16 +1,6 @@
 # MonoMRN: Monocular Semantic Scene Completion via Masked Recurrent Networks
 
-Authors:
-
-Xuzhi Wang<sup>1</sup>
-
-Xinran Wu<sup>1</sup>
-
-Song Wang<sup>2</sup>
-
-Lidong Kong<sup>3</sup>
-
-Ziping Zhao<sup>1</sup>
+Xuzhi Wang<sup>1</sup> Xinran Wu<sup>1</sup> Song Wang<sup>2</sup> Lidong Kong<sup>3</sup> Ziping Zhao<sup>1</sup>
 
 <sup>1</sup> TJNU
 <sup>2</sup> NUS
