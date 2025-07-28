@@ -10,6 +10,14 @@ Xuzhi Wang<sup>1</sup>  Xinran Wu<sup>1</sup>  Song Wang<sup>2</sup> �
 <sup>3</sup>NUS
 </p>
 
+### 📰 News
+
+- 🏆 **2025.06** &nbsp;🎉 Our paper has been **accepted to ICCV 2025**!
+- 📄 **2025.07** &nbsp;📝 The **arXiv preprint** is now available: [arxiv.org/abs/2507.17661](https://arxiv.org/abs/2507.17661)
+- 🚧 **Coming Soon** &nbsp;🛠️ We are preparing the **code release**. Stay tuned on GitHub!
+
+---
+
 
 ## 🧠 Overview
 
