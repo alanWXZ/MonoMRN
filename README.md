@@ -20,8 +20,8 @@ Xuzhi Wang<sup>1</sup>  Xinran Wu<sup>1</sup>  Song Wang<sup>2</sup> �
 1. **Stage 1: Coarse MSSC**
 2. **Stage 2: Masked Recurrent Network (MRN)**  
    ‣ Focuses on refining occluded regions  
-   ‣ Utilizes a **Masked Sparse Gated Recurrent Unit (MS-GRU)** to focus on occupied regions  
-   ‣ Integrates a **Distance Attention Projection** to reduce projection errors
+   ‣ Designs a **Masked Sparse Gated Recurrent Unit (MS-GRU)** to focus on occupied regions  
+   ‣ Proposes a **Distance Attention Projection** to reduce projection errors
 
 ---
 <p align="center">
