@@ -25,7 +25,7 @@ Xuzhi Wang<sup>1</sup>  Xinran Wu<sup>1</sup>  Song Wang<sup>2</sup> �
 
 ---
 <p align="center">
-  <img src="./figs/framework_recurrent.pdf" alt="MonoMRN Framework" width="600"/>
+  <img src="./figs/framework_recurrent.png" alt="MonoMRN Framework" width="600"/>
 </p>
 
 
