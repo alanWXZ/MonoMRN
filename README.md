@@ -24,6 +24,11 @@ Xuzhi Wang<sup>1</sup>  Xinran Wu<sup>1</sup>  Song Wang<sup>2</sup> �
    ‣ Integrates a **Distance Attention Projection** to reduce projection errors
 
 ---
+<p align="center">
+  <img src="./figs/framework_recurrent.pdf" alt="MonoMRN Framework" width="600"/>
+</p>
+
+
 
 ## ✨ Highlights
 
